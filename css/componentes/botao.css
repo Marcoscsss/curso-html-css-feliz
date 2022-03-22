@@ -1,7 +1,7 @@
 
 .botao {
     display: inline-block;
-    background-color: #F95700;
+    background-color: #c7534a;
     box-shadow: 5px 5px 0px black;
     padding: 18px 20px;
     margin-right: 10px;
@@ -15,3 +15,4 @@
     background-color: aqua;
     box-shadow: 10px 10px 3px black;
 }
+
