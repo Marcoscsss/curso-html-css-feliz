@@ -1,13 +1,7 @@
 
 .skills {
     background-color: #F25A70;
-    border-bottom: #7C5E99;
+    border-bottom: 10px solid #7C5E99;
     height: 730px;
 }
 
-.skills .titulo {
-    color: #FFF;
-    text-align: center;
-    padding: 50px 601px 640px 599px;
-    text-shadow: none;
-}

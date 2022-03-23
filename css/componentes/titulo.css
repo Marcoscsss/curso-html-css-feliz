@@ -5,3 +5,8 @@
     text-shadow: 4px 4px 0px #000;
 }
 
+.titulo.-secundario {
+    color: #FFF;
+    text-align: center;
+    text-shadow: none;
+}
