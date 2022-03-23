@@ -1,5 +1,5 @@
 
-.botao {
+.button {
     display: inline-block;
     background-color: #c7534a;
     box-shadow: 5px 5px 0px black;
@@ -10,7 +10,7 @@
     color: #fff;
 }
 
-.botao:hover {
+.button:hover {
     transform: scale(1.1);
     background-color: aqua;
     box-shadow: 10px 10px 3px black;

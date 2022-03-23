@@ -1,5 +1,5 @@
 
-.menus {
+.action {
     display: inline-flex;
     align-items: center;
     color: white;
@@ -9,7 +9,7 @@
     margin-right: 30px;
 }
 
-.menus::before {
+.action::before {
     content: "";
     background-color: #F95700;
     width: 10px;
@@ -17,6 +17,6 @@
     margin-right: 10px;
 }
 
-.menus:hover {
+.action:hover {
     transform: scale(1.2);
 }
