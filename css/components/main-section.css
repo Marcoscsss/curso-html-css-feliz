@@ -5,3 +5,11 @@
     padding-top: 50px;
     padding-bottom: 150px;
 }
+
+.main-section.-bgblack {
+    background-color: #000;
+}
+
+.main-section.-bdfirst {
+    border-bottom: 10px solid #F25A70;
+}
