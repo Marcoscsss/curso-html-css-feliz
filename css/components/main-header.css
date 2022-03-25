@@ -1,5 +1,5 @@
 
-.header {
+.main-header {
     display: flex;
     justify-content: space-between;
     background-image: linear-gradient(to bottom, #0142e8, #022f82);

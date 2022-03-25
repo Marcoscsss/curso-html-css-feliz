@@ -1,5 +1,5 @@
 
-.banned {   
+.main-banned {   
     box-sizing: border-box;
     background: url(../../assets/img/photo.jpg);
     background-position: center;
@@ -10,28 +10,28 @@
     padding-left: 90px;
 }
 
-.banned .wrapper {
+.main-banned .wrapper {
     display: flex;
     flex-direction: column;
     width: 600px;
 }
 
-.banned .box {
+.main-banned .box-banner {
     margin-bottom: 20px;
 }
 
 
 
-.banned .navigation {
+.main-banned .navigation {
     display: flex;
     justify-content: space-around;
 }
 
-.banned .botao {
+.main-banned .botao {
     background-color: #F25A70;
 }
 
-.banned .botao:hover {
+.main-banned .botao:hover {
     transform: scale(1.1);
     background-color: aqua;
     box-shadow: 10px 10px 3px black;
